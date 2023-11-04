@@ -146,7 +146,6 @@ fun Login(){
                 },
                 onForgotPasswordClick = {
                     //Here we can write code to link
-
                 }
             )
             LoginFooter(

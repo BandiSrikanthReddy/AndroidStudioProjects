@@ -83,7 +83,6 @@ fun DisplayImg(){
         Row() {
 
             //LazyVerticalGrid(columns = GridCells.Fixed(2), contentPadding = 2.sp)
-
             MyImage()
             MyImage()
             MyImage()
