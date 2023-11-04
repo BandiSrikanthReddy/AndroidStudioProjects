@@ -104,13 +104,13 @@ fun Login(){
     }
 
     Box(modifier=Modifier.fillMaxSize()) {
-       // Image(painter = painterResource(id = androidx.core.R.drawable.notification_template_icon_low_bg),
-       //     contentDescription = "Login",
-        //    modifier = Modifier
-        //        .fillMaxSize()
-        //        .blur(6.dp),
-        //    contentScale = ContentScale.Crop
-       // )
+//        Image(painter = painterResource(id = androidx.core.R.drawable.notification_template_icon_low_bg),
+//            contentDescription = "Login",
+//            modifier = Modifier
+//                .fillMaxSize()
+//                .blur(6.dp),
+//            contentScale = ContentScale.Crop
+//        )
         //Hi- add in New Comment
         Box(
             modifier = Modifier
